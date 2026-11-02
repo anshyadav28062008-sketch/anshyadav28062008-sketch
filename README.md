@@ -18,7 +18,7 @@
 ┌──────────────────────────────────────────────────────────────┐
 │  > whoami                                                    │
 │                                                              │
-│  Shrujal — developer who enjoys turning ideas into          │
+│  Ansh — developer who enjoys turning ideas into          │
 │  clean, useful and polished projects.                        │
 │                                                              │
 │  ⚡ Exploring software development                           │
